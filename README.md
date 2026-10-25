@@ -1,9 +1,8 @@
 # SAVRENZA GREEN — concept website
-
-Responsive, static landing page. Open `index.html` locally or deploy this folder to Vercel (Framework Preset: Other; no build command). This is a lifestyle brand concept, not a cannabis storefront. No checkout, regulated-product sales, user accounts or live payment integrations are included.
+Static landing page for a music, movement and lifestyle brand. Open `index.html` or deploy the folder to Vercel (Framework: Other, no build command).
+No products are sold on this site.
 
 ## Before launch
-- Confirm rights to SAVRENZA GREEN brand and supplied mood-board artwork.
-- Replace the placeholder contact email with a verified address.
-- Review all copy, legal disclosures and privacy requirements for the intended market.
-- Add real product photography and inventory only after suppliers and terms are confirmed.
+- Confirm rights to the brand name and artwork.
+- Replace the placeholder email (hello@savrenzaplatform.com) with a verified one.
+- Set a real domain and add `<link rel="canonical">`, an og:image and a sitemap.
